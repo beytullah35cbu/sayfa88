@@ -26,7 +26,7 @@ namespace or211
             {
                 if (notlar[i] == enBuyuk)
                 {
-                    Console.WriteLine(isimler[i]); //en yuksek notları yaz veya sadece yuksek not
+                    Console.WriteLine(isimler[i]); //en yuksek notları yaz 
                 }
             }
 
@@ -44,7 +44,7 @@ namespace or211
             {
                 if (notlar[i] == enDusuk)
                 {
-                    Console.WriteLine(isimler[i]);
+                    Console.WriteLine(isimler[i]); //kucuk notları yaz
                 }
             }
 
